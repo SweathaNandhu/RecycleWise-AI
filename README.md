@@ -96,4 +96,3 @@ It uses **Firebase** for image storage and user tracking, and the **Google Maps 
 
 ## 🌱 Made with purpose to build a greener tomorrow.
 
-![Profile views](https://komarev.com/ghpvc/?username=swethaganeshh&color=blue)
