@@ -6,7 +6,7 @@
  **Live Demo**: [Live](https://plastwise.netlify.app/)  
 **Source Code**: [GitHub Repository](https://github.com/SweathaNandhu/RecycleWise-AI)
 
-**Explanation video**: [Youtube-Video]()
+**Explanation video**: [Youtube-Video](https://youtu.be/hklZylFZccg?si=MWyOGtQGoD1Uxkzh)
 
 
 ---
