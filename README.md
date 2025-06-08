@@ -4,9 +4,9 @@
 
 
  **Live Demo**: [Live](https://plastwise.netlify.app/)  
-**Source Code**: [GitHub Repository](https://github.com/swethaganeshh/PlasticWise)
+**Source Code**: [GitHub Repository](https://github.com/SweathaNandhu/RecycleWise-AI)
 
-**Explanation video**: [Youtube-Video](https://youtu.be/MOOsl1mq4_k?si=FsTwRuDUs_c2R5Qf)
+**Explanation video**: [Youtube-Video]()
 
 
 ---
@@ -90,15 +90,7 @@ It uses **Firebase** for image storage and user tracking, and the **Google Maps 
 
 ## 🧑‍💻 Author
 
-- 👩‍💻 [Swetha Ganesh](https://github.com/swethaganeshh)
-
----
-
-## 📬 Feedback & Suggestions
-
-Have ideas or want to collaborate?  
-- Submit issues or PRs on [GitHub](https://github.com/swethaganeshh/PlasticWise)  
-- Connect on [LinkedIn](https://www.linkedin.com/in/swethaganesh07)
+- 👩‍💻 [Swetha Ganesh](https://github.com/SweathaNandhu)
 
 ---
 
