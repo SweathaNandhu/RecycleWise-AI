@@ -88,11 +88,5 @@ It uses **Firebase** for image storage and user tracking, and the **Google Maps 
 
 ---
 
-## 🧑‍💻 Author
-
-- 👩‍💻 [Swetha Ganesh](https://github.com/SweathaNandhu)
-
----
-
 ## 🌱 Made with purpose to build a greener tomorrow.
 
